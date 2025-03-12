@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        ripe       1.00      1.00      1.00       116
+     damaged       1.00      1.00      1.00       108
+
+    accuracy                           1.00       224
+   macro avg       1.00      1.00      1.00       224
+weighted avg       1.00      1.00      1.00       224
