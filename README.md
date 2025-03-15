@@ -125,10 +125,6 @@ You can adjust the system's behavior by modifying the constants at the top of ea
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - PyTorch team for the amazing deep learning framework
